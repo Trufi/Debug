@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: Debug
+## Notes: Debug addons tools
+
+## SavedVariablesPerCharacter: DebugCharacter
+
+Debug.lua
